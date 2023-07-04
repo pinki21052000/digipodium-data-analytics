@@ -1,0 +1,11 @@
+from turtle import*
+color("green")
+pensize("5")
+fd(45)
+rt(30)
+fd(45)
+rt(30)
+fd(45)
+rt(30)
+circle(180)
+mainloop()
